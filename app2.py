@@ -5571,7 +5571,6 @@ def clear_history() -> None:
 # =========================================================
 
 with st.sidebar:
-
     st.markdown("### Model controls")
 
     model_name = st.selectbox(
@@ -5585,7 +5584,9 @@ with st.sidebar:
         ),
     )
 
+    
     st.divider()
+
 
     st.markdown("### Risk bands")
 

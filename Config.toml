@@ -1,0 +1,10 @@
+# Save this file as  .streamlit/config.toml  next to app.py
+# It forces Streamlit's light theme so text is never light-on-light.
+
+[theme]
+base = "light"
+primaryColor = "#780B27"
+backgroundColor = "#F7F5F3"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#271C20"
+font = "sans serif"

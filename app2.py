@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import json
 import textwrap
 from datetime import datetime
